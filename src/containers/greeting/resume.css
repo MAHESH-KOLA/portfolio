@@ -1,0 +1,10 @@
+.resume {
+    display: flex;
+    gap: 10px; /* Add some space between the buttons */
+    justify-content: center; /* Center the buttons horizontally */
+    align-items: center; /* Center the buttons vertically if needed */
+}
+
+.portoflio-repo-btn-div {
+    display: inline-block; /* Ensure each button is treated as an inline block */
+}
